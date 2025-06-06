@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Dhwani 
 
 🎯 **Aspiring Data Analyst | Passionate about turning data into actionable insights**
 
@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Background in [your degree/education]  
+- 🎓 Background in Analysis, Bachelor's and Master's in Computer Applications  
 - 💼 Experience in data analysis, business processes, and stakeholder collaboration  
 - 📊 Skilled in deriving insights from data to support business decisions  
 - 🌱 Currently learning advanced SQL, data governance tools like Collibra, and dashboarding with Power BI  
@@ -40,8 +40,8 @@
 
 ### 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Email](mailto:your@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/dhwani-m/)  
+- [Email](dhwanimht80@gmail.com)  
 - 💡 Always open to learning, collaborating, and data storytelling!
 
 ---
