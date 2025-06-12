@@ -23,21 +23,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-- 📈 **Sales Performance Dashboard**  
-  Visualized regional sales performance using Power BI and Excel. Identified key trends and improvement areas.  
-  _[View Project](#)_
-
-- 🧹 **Customer Churn Analysis**  
-  Cleaned and analyzed telco customer data in Python. Built a logistic regression model to predict churn.  
-  _[View Project](#)_
-
-- 🗃️ **Data Governance Glossary with Collibra** (Coming Soon)  
-  Documenting a mock business glossary and data lineage to understand Collibra use cases.
-
----
-
 ### 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dhwani-m/)  
